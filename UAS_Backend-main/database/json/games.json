@@ -1,0 +1,121 @@
+[
+    {
+        "title": "METAL GEAR SOLID 3: Snake Eater",
+        "description": "This game is part of the METAL GEAR series, revealing the backstory of Naked Snake and his mentor, The Boss. Set in a dense jungle, players use new stealth techniques, camouflage, and face paint to blend in with the environment. The game also introduces new action elements like catching forest creatures for sustenance and a close-quarters combat mode (CQC) for hand-to-hand fights. Exclusive digital materials include a Screenplay Book and a Master Book detailing the game's story and characters.",
+        "genre_id": 14,
+        "image": "images/metalgearsolid3.jpg",
+        "price": 1379000
+    },
+    {
+        "title": "The Witcher 3: Wild Hunt",
+        "description": "You play as Geralt of Rivia, a monster hunter on a quest to find Ciri, a powerful being capable of changing the world. This complete edition includes the base game with over 100 hours of open-world adventure and the story expansions 'Hearts of Stone' and 'Blood and Wine', adding another 50 hours of gameplay. It features new items from the Netflix series, a photo mode, and other updates for next-gen consoles, enhancing visuals and performance.",
+        "genre_id": 1,
+        "image": "images/the witcher 3.png",
+        "price": 1200000
+    },
+    {
+        "title": "Terraria",
+        "description": "Dig, fight, explore, and build in this action-packed adventure game. The entire world is your canvas, and the ground itself is your paint. Create weapons to fight various enemies in different biomes, mine for treasures, and collect resources to craft everything you need. Build your own home, fortress, or castle where NPCs can move in and sell you useful items for your journey.",
+        "genre_id": 1,
+        "image": "images/terraria.jpg",
+        "price": 299000
+    },
+    {
+        "title": "RESIDENT EVIL 7",
+        "description": "Set in a decaying farmhouse in America's South, this survival horror game introduces a new 'isolated camera' perspective for a more immersive experience. The RE Engine pushes the limits of horror, making the experience more realistic and terrifying.",
+        "genre_id": 11,
+        "image": "images/residentevil7.jpg",
+        "price": 899000
+    },
+    {
+        "title": "Ghost of Tsushima DIRECTOR'S CUT",
+        "description": "Set in the late 13th century, the Mongol Empire is ravaging nations in its quest to conquer the East. The island of Tsushima is the last line of defense, with Jin Sakai, a samurai, as its lone survivor. Jin must abandon his samurai traditions and embrace a new way to fight, becoming the Ghost to save his people and home.",
+        "genre_id": 3,
+        "image": "images/ghostoftsushima.jpg",
+        "price": 1299000
+    },
+    {
+        "title": "Cyberpunk 2077",
+        "description": "This open-world RPG set in a dark future tells the story of V, a cyberpunk mercenary struggling to survive in Night City. Create your character, choose your play style, and make choices that influence the world and story. This enhanced version includes new content and visual improvements.",
+        "genre_id": 1,
+        "image": "images/cyberpunk2077.jpg",
+        "price": 3399000
+    },
+    {
+        "title": "HELLDIVERS 2",
+        "description": "Join the fight for freedom in this action-packed third-person shooter. Play in squads of up to four Helldivers, completing strategic missions across the hostile galaxy. Teamwork is crucial, as friendly fire is a constant threat.",
+        "genre_id": 14,
+        "image": "images/helldivers2.jpg",
+        "price": 499000
+    },
+    {
+        "title": "Lethal Company",
+        "description": "Work for a company contracted to collect scrap from abandoned industrial moons. Use your earnings to explore riskier moons for higher rewards or to buy stylish outfits and ship decorations. Scan creatures you find and add them to your bestiary while navigating the dangers and mysteries of these environments.",
+        "genre_id": 12,
+        "image": "images/Lethal-Company-1.jpg",
+        "price": 679000
+    },
+    {
+        "title": "Sid Meier’s Civilization VI",
+        "description": "Created by legendary designer Sid Meier, this turn-based strategy game challenges you to build an empire that stands the test of time. Lead a civilization from the Stone Age to the Information Age, engage in diplomacy, cultural development, and war to become the greatest ruler in history. The game offers new ways to interact with the world, expanded cities, active research, dynamic diplomacy, and combined arms units.",
+        "genre_id": 10,
+        "image": "images/sidmeier.jpeg",
+        "price": 809000
+    },
+    {
+        "title": "Resident Evil 4",
+        "description": "Six years after the biological disaster in Raccoon City, agent Leon S. Kennedy is sent to rescue the kidnapped daughter of the president. His search leads him to a mysterious European village where something is terribly wrong with the locals. Experience the updated gameplay, reimagined storyline, and highly detailed graphics in this revitalized classic survival horror game.",
+        "genre_id": 11,
+        "image": "images/residentevil4.png",
+        "price": 1499000
+    },
+    {
+        "title": "Satisfactory",
+        "description": "A first-person open-world factory building game focusing on exploration and combat. Play alone or with friends, build sprawling factories, and automate production to achieve efficiency. Explore an alien planet, gather resources, and construct massive factories.",
+        "genre_id": 13,
+        "image": "images/satisfactory.jpg",
+        "price": 899000
+    },
+    {
+        "title": "Outlast",
+        "description": "Set in the remote mountains of Colorado, the Mount Massive Asylum hides terrifying secrets. Independent journalist Miles Upshur ventures into the asylum following a tip, uncovering horrors that blur the line between science and religion. In this stealth game, you must run or hide to survive the nightmares within.",
+        "genre_id": 12,
+        "image": "images/outlast.jpeg",
+        "price": 799000
+    },
+    {
+        "title": "Sonic Mania",
+        "description": "Past and future collide in Sonic Mania, a 2D Sonic adventure with stunning retro-style HD graphics. Play as Sonic, Tails, and Knuckles, and race through classic zones while challenging new bosses. Play in competition mode or cooperative mode. Sonic Mania is developed by Christian Whitehead, Headcannon, and PagodaWest Games in collaboration with Sonic Team.",
+        "genre_id": 6,
+        "image": "images/sonicmania.jpeg",
+        "price": 459000
+    },
+    {
+        "title": "Mortal Kombat 1",
+        "description": "Mortal Kombat returns with a fresh restart, featuring a new universe created by fire god Liu Kang. This installment includes redesigned favorite characters and new fighters. The story mode is filled with high-quality cinematics. Choose a main fighter and a 'cameo' character to assist in battles. The game features updated combat systems and more dynamic finishing moves.",
+        "genre_id": 5,
+        "image": "images/mortalkombat1.jpeg",
+        "price": 1299000
+    },
+    {
+        "title": "FIFA 24",
+        "description": "EA SPORTS FC™ 24 offers a new era of the global game with over 19,000 licensed players, 700+ teams, and 30+ leagues. The game features HyperMotionV technology, gameplay styles from Opta, and the Frostbite™ engine for unmatched realism. Enjoy enhanced graphics and new customization options, as well as cross-play in Clubs and VOLTA FOOTBALL™ modes.",
+        "genre_id": 9,
+        "image": "images/fifa-24.jpg",
+        "price": 699000
+    },
+    {
+        "title": "Wreckfest",
+        "description": "Forget the rules! Wreckfest is all about full-contact racing and no-holds-barred destruction. Experience epic crashes and intense races in this realistic physics simulation from the creators of FlatOut 1 & 2. Customize and upgrade your cars for survival races and demolition derbies. Multiplayer mode lets you compete with friends online, and the career mode offers championships and challenges to become the ultimate racing champion.",
+        "genre_id": 8,
+        "image": "images/wreckfest.jpg",
+        "price": 569.000
+    },
+    {
+        "title": "Assassin's Creed Origins",
+        "description": "Set in ancient Egypt, this game explores the origins of the Assassin Brotherhood. Travel through a diverse landscape, from the Nile's lush banks to the scorching desert. Explore forgotten tombs and uncover secrets as you journey through this richly detailed world.",
+        "genre_id": 3,
+        "image": "images/Assasin Creed Origin.jpg",
+        "price": 999.000
+    }
+]
